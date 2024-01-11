@@ -1,0 +1,1 @@
+(specs::Read<'a, EntitiesRes>, specs::Read<'a, GridDimensions>, specs::Storage<'a, NewGridCoords, FetchMut<'a, MaskedStorage<NewGridCoords>>>, specs::Storage<'a, GridCoords, FetchMut<'a, MaskedStorage<GridCoords>>>, specs::Storage<'a, Position, FetchMut<'a, MaskedStorage<Position>>>)

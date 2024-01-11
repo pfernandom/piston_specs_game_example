@@ -1,0 +1,17 @@
+[package]
+name = "winit-example"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+find_folder = "0.3.0"
+gfx = "0.18.3"
+gfx_device_gl = "0.16.2"
+nalgebra = "0.32.3"
+piston-ai_behavior = "0.33.0"
+piston2d-sprite = "0.68.0"
+piston_window = "*"
+specs = { version = "0.20.0", features = ["specs-derive"]  }
+rand = "0.4.6"

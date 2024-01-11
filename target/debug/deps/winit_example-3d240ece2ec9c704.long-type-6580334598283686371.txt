@@ -1,0 +1,1 @@
+(&Storage<'a, Position, Fetch<'a, MaskedStorage<Position>>>, &mut Storage<'a, Velocity, FetchMut<'a, MaskedStorage<Velocity>>>, &mut specs::Write<'a, GridCoords>)

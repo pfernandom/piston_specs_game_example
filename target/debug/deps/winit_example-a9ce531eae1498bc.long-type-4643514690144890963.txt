@@ -1,0 +1,1 @@
+(specs::Read<'a, EntitiesRes>, &specs::Storage<'a, ActionFired, FetchMut<'a, MaskedStorage<ActionFired>>>, &specs::Storage<'a, PlayerMarker, Fetch<'a, MaskedStorage<PlayerMarker>>>)

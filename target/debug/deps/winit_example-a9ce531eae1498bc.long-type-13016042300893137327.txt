@@ -1,0 +1,1 @@
+std::iter::Cloned<std::iter::Map<JoinIter<(&specs::Read<'_, EntitiesRes>, &specs::Storage<'_, Health, FetchMut<'_, MaskedStorage<Health>>>, &specs::Storage<'_, Damage, FetchMut<'_, MaskedStorage<Damage>>>)>, {closure@src/health_sys.rs:11:64: 11:70}>>
